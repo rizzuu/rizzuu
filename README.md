@@ -90,5 +90,9 @@ Attrition exists across multiple salary ranges, indicating retention challenges 
 <img width="1312" height="746" alt="Screenshot 2026-06-13 152738" src="https://github.com/user-attachments/assets/759e2c33-1f9d-43e7-b09d-97ea9bcf978b" />
 <img width="1318" height="747" alt="Screenshot 2026-06-13 152722" src="https://github.com/user-attachments/assets/6fabff79-2456-495f-899c-1403e21af8d0" />
 
+# Datasets
+[HR_2_csv.csv](https://github.com/user-attachments/files/28910812/HR_2_csv.csv)
+[HR_1_csv.csv](https://github.com/user-attachments/files/28910811/HR_1_csv.csv)
+
 
 
